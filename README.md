@@ -29,9 +29,8 @@ projects.
 
 > Replace these with your real profiles:
 >
-> -   LinkedIn
-> -   Portfolio
-> -   Email
+> -   [LinkedIn](https://www.linkedin.com/in/piyusshhjangid/)
+> -   [Email](jangidpiyush16011@gmail.com)
 
 ------------------------------------------------------------------------
 
@@ -77,36 +76,12 @@ projects.
 
 ------------------------------------------------------------------------
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=piyusshhjangid&theme=tokyonight&column=4)
-
-------------------------------------------------------------------------
 
 # 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=piyusshhjangid&theme=tokyo-night)
 
 ------------------------------------------------------------------------
-
-# 🗺️ Learning Roadmap
-
-``` text
-✅ HTML / CSS
-✅ JavaScript
-✅ React
-✅ Backend Fundamentals
-✅ Authentication & JWT
-✅ TypeScript
-🔄 PostgreSQL + SQL
-🔜 Prisma ORM
-🔜 Next.js
-🔜 Docker
-🔜 AWS
-🔜 System Design
-🔜 Kubernetes
-🔜 SaaS Products
-```
 
 ## 🎯 2026 Goals
 
