@@ -80,15 +80,7 @@ Outside programming, I enjoy exploring startup ideas, UI/UX, system design, prod
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyusshhjangid&theme=tokyonight&hide_border=false&show_icons=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=piyusshhjangid&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyusshhjangid&layout=compact&theme=tokyonight)
-
-### 🏆 Trophy Case
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=piyusshhjangid&theme=onedark&column=-1&margin-w=15&margin-h=15)
 
 </div>
 
