@@ -25,11 +25,19 @@ projects.
 
 ## 🌐 Connect with Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=jangidpiyush16011@gmail.com)
+<p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jangidpiyush16011@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyusshhjangid/)
+  <a href="https://www.linkedin.com/in/piyusshhjangid/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piyusshhjangid)
+  <a href="https://github.com/piyusshhjangid">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 ------------------------------------------------------------------------
 
 # 💻 Tech Stack
