@@ -1,46 +1,48 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=260&section=header&text=Piyush%20Jangid&fontSize=46&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20CS%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Piyush Jangid"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+SaaS+products+from+scratch;React%2C+Node.js%2C+PostgreSQL%2C+MongoDB;Learning+by+building%2C+not+just+watching" alt="Typing SVG"/>
+
+</div>
+
+---
+
 # 💫 About Me
 
 Hi, I'm **Piyush Jangid** 👋
 
-🎓 Computer Engineering student passionate about **Full Stack
-Development, SaaS, and Software Engineering**.
+🎓 Computer Engineering student passionate about **Full Stack Development, SaaS, and Software Engineering**.
 
-I'm currently building a strong foundation in **JavaScript, TypeScript,
-React, Node.js, Express, MongoDB, PostgreSQL, SQL and DSA** through
-consistent project-based learning.
+I'm currently building a strong foundation in **JavaScript, TypeScript, React, Node.js, Express, MongoDB, PostgreSQL, SQL and DSA** through consistent project-based learning.
 
-I believe in **learning by building**, so instead of only watching
-tutorials, I create projects, take structured notes, solve DSA problems,
-and continuously improve my development workflow.
+I believe in **learning by building**, so instead of only watching tutorials, I create projects, take structured notes, solve DSA problems, and continuously improve my development workflow.
 
-🚀 My long-term goal is to become a top software engineer, contribute to
-open source, build successful SaaS products, and eventually start my own
-technology company.
+🚀 My long-term goal is to become a top software engineer, contribute to open source, build successful SaaS products, and eventually start my own technology company.
 
-Outside programming, I enjoy exploring startup ideas, UI/UX, system
-design, productivity, and constantly challenging myself with ambitious
-projects.
+Outside programming, I enjoy exploring startup ideas, UI/UX, system design, productivity, and constantly challenging myself with ambitious projects.
 
-------------------------------------------------------------------------
+---
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jangidpiyush16011@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://www.linkedin.com/in/piyusshhjangid/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://github.com/piyusshhjangid">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-------------------------------------------------------------------------
 
-# 💻 Tech Stack
+---
+
+## 💻 Tech Stack
+
+<p align="center">
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -59,52 +61,78 @@ projects.
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker)
 
-------------------------------------------------------------------------
+</p>
 
-# 🚀 Current Focus
+---
 
--   📚 Mastering TypeScript & PostgreSQL
--   ⚡ Building production-grade Full Stack projects
--   💼 Preparing for Software Engineering internships
--   🧠 Solving DSA consistently
--   🌍 Contributing to Open Source
--   🚀 Working toward launching my first SaaS
+## 🚀 Current Focus
 
-------------------------------------------------------------------------
+- 📚 Mastering TypeScript & PostgreSQL
+- ⚡ Building production-grade Full Stack projects
+- 💼 Preparing for Software Engineering internships
+- 🧠 Solving DSA consistently
+- 🌍 Contributing to Open Source
+- 🚀 Working toward launching my first SaaS
 
-# 📊 GitHub Stats
+---
 
-![](https://github-readme-stats.vercel.app/api?username=piyusshhjangid&theme=tokyonight&hide_border=false&show_icons=true)
+## 📊 GitHub Stats
 
-![](https://streak-stats.demolab.com?user=piyusshhjangid&theme=tokyonight)
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyusshhjangid&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyusshhjangid&theme=tokyonight&hide_border=false&show_icons=true)
 
-------------------------------------------------------------------------
+![GitHub Streak](https://streak-stats.demolab.com?user=piyusshhjangid&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyusshhjangid&layout=compact&theme=tokyonight)
 
-# 📈 Contribution Graph
+### 🏆 Trophy Case
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=piyusshhjangid&theme=tokyo-night)
+![Trophies](https://github-profile-trophy.vercel.app/?username=piyusshhjangid&theme=onedark&column=-1&margin-w=15&margin-h=15)
 
-------------------------------------------------------------------------
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=piyusshhjangid&theme=tokyo-night)
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyusshhjangid/piyusshhjangid/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyusshhjangid/piyusshhjangid/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/piyusshhjangid/piyusshhjangid/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+*Goes live once the workflow in `snake.yml` runs — one-time setup, see notes below.*
+
+</div>
+
+---
 
 ## 🎯 2026 Goals
 
--   Build 5 production-quality projects
--   Crack a high-quality software internship
--   Solve 500+ DSA problems
--   Learn cloud deployment
--   Contribute to open source
--   Launch my first SaaS MVP
+- [ ] Build 5 production-quality projects
+- [ ] Crack a high-quality software internship
+- [ ] Solve 500+ DSA problems
+- [ ] Learn cloud deployment
+- [ ] Contribute to open source
+- [ ] Launch my first SaaS MVP
 
-------------------------------------------------------------------------
+---
 
 ### ✍️ Developer Quote
 
-> *"Consistency compounds. Every project, every bug, every commit makes
-> you a better engineer."*
+> *"Consistency compounds. Every project, every bug, every commit makes you a better engineer."*
 
-------------------------------------------------------------------------
+<div align="center">
 
 ![](https://visitcount.itsvg.in/api?id=piyusshhjangid&icon=5&color=12)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b26&height=180&section=footer" width="100%" alt="footer wave"/>
+
+</div>
