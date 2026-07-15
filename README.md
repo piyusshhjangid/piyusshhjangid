@@ -26,9 +26,6 @@ projects.
 # 🌐 Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/piyusshhjangid)
-
-> Replace these with your real profiles:
->
 > -   [LinkedIn](https://www.linkedin.com/in/piyusshhjangid/)
 > -   [Email](jangidpiyush16011@gmail.com)
 
