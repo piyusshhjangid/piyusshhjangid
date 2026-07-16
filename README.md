@@ -4,11 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+SaaS+products+from+scratch;React%2C+Node.js%2C+PostgreSQL%2C+MongoDB;Learning+by+building%2C+not+just+watching" alt="Typing SVG"/>
 
-<p>
-  <img src="https://img.shields.io/github/followers/piyusshhjangid?label=Followers&style=for-the-badge&logo=github&color=7aa2f7&labelColor=1a1b26" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="Open to Internships"/>
-</p>
-
 <sub>
 <a href="#-about-me">About</a> •
 <a href="#-tech-stack">Tech Stack</a> •
@@ -49,9 +44,6 @@ Outside programming, I enjoy exploring startup ideas, UI/UX, system design, prod
   </a>
   <a href="https://github.com/piyusshhjangid">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/piyusshhjangid/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -99,61 +91,6 @@ Outside programming, I enjoy exploring startup ideas, UI/UX, system design, prod
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:7aa2f7&height=3&section=header" width="100%" alt=""/>
 </div>
-
-## 💼 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎤 [InterviewMate](https://github.com/piyusshhjangid/InterviewMate)
-
-AI-powered mock interview platform for practicing technical, behavioral, and mixed interviews — Gemini-generated questions, real-time feedback, streaks, and an achievements system.
-
-`React` `Gemini API` `LocalStorage`
-
-🔗 [Live Demo](https://interview-mate-psi.vercel.app) · [Source](https://github.com/piyusshhjangid/InterviewMate)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧰 [Productivity Hub](https://github.com/piyusshhjangid/Productivity-Hub)
-
-A modular hub built to host a growing suite of productivity and utility tools behind a single, clean interface.
-
-`HTML5` `CSS3` `JavaScript`
-
-🔗 [Live Demo](https://piyush-jangid-01.github.io/Productivity-Hub/) · [Source](https://github.com/piyusshhjangid/Productivity-Hub)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 [Developer Portfolio](https://github.com/piyusshhjangid/portfolio)
-
-My personal portfolio site — scroll-based reveal animations, a tilted-card hero, and a working contact form, all wrapped in a Framer Motion-driven UI.
-
-`React` `TypeScript` `Framer Motion`
-
-🔗 [Live Demo](https://portfolio-teal-eight-mbtq40deii.vercel.app/) · [Source](https://github.com/piyusshhjangid/portfolio)
-
-</td>
-<td width="50%" valign="top">
-
-### 👕 [Clothing Brand Landing Page](https://github.com/piyusshhjangid/clothing-brand)
-
-A clothing-brand storefront landing page built as a learning project — focused on layout, styling, and front-end fundamentals.
-
-`HTML` `CSS` `JavaScript`
-
-🔗 [Source](https://github.com/piyusshhjangid/clothing-brand)
-
-</td>
-</tr>
-</table>
-
-<p align="center"><sub><a href="https://github.com/piyusshhjangid?tab=repositories">See all repositories →</a></sub></p>
 
 ---
 
