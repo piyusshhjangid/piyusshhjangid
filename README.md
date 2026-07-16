@@ -88,12 +88,6 @@ Outside programming, I enjoy exploring startup ideas, UI/UX, system design, prod
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:7aa2f7&height=3&section=header" width="100%" alt=""/>
-</div>
-
----
-
 ## 🚀 Current Focus
 
 - 📚 Mastering TypeScript & PostgreSQL
