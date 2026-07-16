@@ -4,15 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+SaaS+products+from+scratch;React%2C+Node.js%2C+PostgreSQL%2C+MongoDB;Learning+by+building%2C+not+just+watching" alt="Typing SVG"/>
 
-<sub>
-<a href="#-about-me">About</a> •
-<a href="#-tech-stack">Tech Stack</a> •
-<a href="#-featured-projects">Projects</a> •
-<a href="#-current-focus">Focus</a> •
-<a href="#-github-streak">Stats</a> •
-<a href="#-2026-goals">Goals</a>
-</sub>
-
 </div>
 
 ---
