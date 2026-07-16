@@ -4,6 +4,20 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+SaaS+products+from+scratch;React%2C+Node.js%2C+PostgreSQL%2C+MongoDB;Learning+by+building%2C+not+just+watching" alt="Typing SVG"/>
 
+<p>
+  <img src="https://img.shields.io/github/followers/piyusshhjangid?label=Followers&style=for-the-badge&logo=github&color=7aa2f7&labelColor=1a1b26" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Open%20to-Internships-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="Open to Internships"/>
+</p>
+
+<sub>
+<a href="#-about-me">About</a> •
+<a href="#-tech-stack">Tech Stack</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-current-focus">Focus</a> •
+<a href="#-github-streak">Stats</a> •
+<a href="#-2026-goals">Goals</a>
+</sub>
+
 </div>
 
 ---
@@ -36,6 +50,9 @@ Outside programming, I enjoy exploring startup ideas, UI/UX, system design, prod
   <a href="https://github.com/piyusshhjangid">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/piyusshhjangid/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -44,17 +61,31 @@ Outside programming, I enjoy exploring startup ideas, UI/UX, system design, prod
 
 <p align="center">
 
+**Languages**
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+
+**Frontend**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+**Backend**
+
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
+**Databases**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+
+**Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
@@ -62,6 +93,67 @@ Outside programming, I enjoy exploring startup ideas, UI/UX, system design, prod
 ![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker)
 
 </p>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:7aa2f7&height=3&section=header" width="100%" alt=""/>
+</div>
+
+## 💼 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎤 [InterviewMate](https://github.com/piyusshhjangid/InterviewMate)
+
+AI-powered mock interview platform for practicing technical, behavioral, and mixed interviews — Gemini-generated questions, real-time feedback, streaks, and an achievements system.
+
+`React` `Gemini API` `LocalStorage`
+
+🔗 [Live Demo](https://interview-mate-psi.vercel.app) · [Source](https://github.com/piyusshhjangid/InterviewMate)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧰 [Productivity Hub](https://github.com/piyusshhjangid/Productivity-Hub)
+
+A modular hub built to host a growing suite of productivity and utility tools behind a single, clean interface.
+
+`HTML5` `CSS3` `JavaScript`
+
+🔗 [Live Demo](https://piyush-jangid-01.github.io/Productivity-Hub/) · [Source](https://github.com/piyusshhjangid/Productivity-Hub)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [Developer Portfolio](https://github.com/piyusshhjangid/portfolio)
+
+My personal portfolio site — scroll-based reveal animations, a tilted-card hero, and a working contact form, all wrapped in a Framer Motion-driven UI.
+
+`React` `TypeScript` `Framer Motion`
+
+🔗 [Live Demo](https://portfolio-teal-eight-mbtq40deii.vercel.app/) · [Source](https://github.com/piyusshhjangid/portfolio)
+
+</td>
+<td width="50%" valign="top">
+
+### 👕 [Clothing Brand Landing Page](https://github.com/piyusshhjangid/clothing-brand)
+
+A clothing-brand storefront landing page built as a learning project — focused on layout, styling, and front-end fundamentals.
+
+`HTML` `CSS` `JavaScript`
+
+🔗 [Source](https://github.com/piyusshhjangid/clothing-brand)
+
+</td>
+</tr>
+</table>
+
+<p align="center"><sub><a href="https://github.com/piyusshhjangid?tab=repositories">See all repositories →</a></sub></p>
 
 ---
 
@@ -76,7 +168,7 @@ Outside programming, I enjoy exploring startup ideas, UI/UX, system design, prod
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -120,6 +212,8 @@ Outside programming, I enjoy exploring startup ideas, UI/UX, system design, prod
 ### ✍️ Developer Quote
 
 > *"Consistency compounds. Every project, every bug, every commit makes you a better engineer."*
+
+💬 Always up for a conversation about SaaS, system design, or your next big idea — feel free to reach out.
 
 <div align="center">
 
