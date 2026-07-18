@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 318" width="490" height="318" font-family="Consolas, Menlo, monospace">
+<rect x="0" y="0" width="490" height="318" rx="10" fill="#1a1b26" stroke="#2a2e42"/>
+<circle cx="16" cy="16" r="4.5" fill="#f7768e"/>
+<circle cx="32" cy="16" r="4.5" fill="#e0af68"/>
+<circle cx="48" cy="16" r="4.5" fill="#9ece6a"/>
+<text x="245.0" y="20" text-anchor="middle" fill="#565f89" font-size="11">piyush@github ~ $ whoami</text>
+<text x="24" y="44" fill="#9ece6a" font-size="15" font-weight="bold">piyush@github</text>
+<line x1="24" y1="52" x2="466" y2="52" stroke="#2a2e42" stroke-width="1"/>
+<g opacity="0.15"><animate attributeName="opacity" from="0.15" to="1" begin="0.00s" dur="0.3s" fill="freeze"/><text x="24" y="74" fill="#7aa2f7" font-size="13">OS</text><text x="142" y="74" fill="#c0caf5" font-size="13">Full-Stack Developer</text></g>
+<g opacity="0.15"><animate attributeName="opacity" from="0.15" to="1" begin="0.09s" dur="0.3s" fill="freeze"/><text x="24" y="98" fill="#7aa2f7" font-size="13">Host</text><text x="142" y="98" fill="#c0caf5" font-size="13">J.C. Bose University — Computer Engineering</text></g>
+<g opacity="0.15"><animate attributeName="opacity" from="0.15" to="1" begin="0.18s" dur="0.3s" fill="freeze"/><text x="24" y="122" fill="#7aa2f7" font-size="13">Shell</text><text x="142" y="122" fill="#c0caf5" font-size="13">JavaScript / TypeScript</text></g>
+<g opacity="0.15"><animate attributeName="opacity" from="0.15" to="1" begin="0.27s" dur="0.3s" fill="freeze"/><text x="24" y="146" fill="#7aa2f7" font-size="13">Languages</text><text x="142" y="146" fill="#c0caf5" font-size="13">JS · TS · Python · C++</text></g>
+<g opacity="0.15"><animate attributeName="opacity" from="0.15" to="1" begin="0.36s" dur="0.3s" fill="freeze"/><text x="24" y="170" fill="#7aa2f7" font-size="13">Frameworks</text><text x="142" y="170" fill="#c0caf5" font-size="13">React · Node.js · Express</text></g>
+<g opacity="0.15"><animate attributeName="opacity" from="0.15" to="1" begin="0.45s" dur="0.3s" fill="freeze"/><text x="24" y="194" fill="#7aa2f7" font-size="13">Databases</text><text x="142" y="194" fill="#c0caf5" font-size="13">MongoDB · PostgreSQL</text></g>
+<g opacity="0.15"><animate attributeName="opacity" from="0.15" to="1" begin="0.54s" dur="0.3s" fill="freeze"/><text x="24" y="218" fill="#7aa2f7" font-size="13">Building</text><text x="142" y="218" fill="#c0caf5" font-size="13">First SaaS MVP</text></g>
+<g opacity="0.15"><animate attributeName="opacity" from="0.15" to="1" begin="0.63s" dur="0.3s" fill="freeze"/><text x="24" y="242" fill="#7aa2f7" font-size="13">Status</text><text x="142" y="242" fill="#c0caf5" font-size="13">🟢 Open to Internships</text></g>
+<g opacity="0.15"><animate attributeName="opacity" from="0.15" to="1" begin="0.72s" dur="0.3s" fill="freeze"/><text x="24" y="266" fill="#7aa2f7" font-size="13">2026 Goals</text><text x="142" y="266" fill="#c0caf5" font-size="13">5 projects · 500+ DSA · OSS</text></g>
+<rect x="24" y="296" width="16" height="16" rx="3" fill="#1a1b26"/>
+<rect x="44" y="296" width="16" height="16" rx="3" fill="#f7768e"/>
+<rect x="64" y="296" width="16" height="16" rx="3" fill="#9ece6a"/>
+<rect x="84" y="296" width="16" height="16" rx="3" fill="#e0af68"/>
+<rect x="104" y="296" width="16" height="16" rx="3" fill="#7aa2f7"/>
+<rect x="124" y="296" width="16" height="16" rx="3" fill="#bb9af7"/>
+<rect x="144" y="296" width="16" height="16" rx="3" fill="#7dcfff"/>
+<rect x="164" y="296" width="16" height="16" rx="3" fill="#c0caf5"/>
+</svg>
