@@ -1,8 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=260&section=header&text=Piyush%20Jangid&fontSize=46&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20CS%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Piyush Jangid"/>
+<!-- animated contribution heatmap: real data, cells reveal left-to-right.
+     regenerated daily by .github/workflows/update-profile-art.yml
+     (script: scripts/make_heatmap_svg.py) -->
+<h3><code>piyusshhjangid@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="100%" alt="Piyush's GitHub contribution graph — auto-refreshed daily" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+SaaS+products+from+scratch;React%2C+Node.js%2C+PostgreSQL%2C+MongoDB;Learning+by+building%2C+not+just+watching" alt="Typing SVG"/>
+<br><br>
+
+<!-- ASCII portrait + neofetch-style info card.
+     portrait: scripts/make_ascii_svg.py <photo> ascii-portrait.svg (needs a photo — see note below)
+     info card: scripts/make_info_card.py info-card.svg -->
+<h3><code>piyusshhjangid@github ~ $ whoami</code></h3>
+<table>
+<tr>
+<td valign="top"><img src="./ascii-portrait.svg" width="370" alt="Piyush Jangid" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Piyush Jangid — stack, focus, goals" /></td>
+</tr>
+</table>
+
+<br>
+
+<p><b>Full Stack Developer · SaaS Builder · CS Engineer</b></p>
+
+<p>
+  <img src="https://img.shields.io/github/followers/piyusshhjangid?label=Followers&style=for-the-badge&logo=github&color=7aa2f7&labelColor=1a1b26" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Open%20to-Internships-7aa2f7?style=for-the-badge&labelColor=1a1b26" alt="Open to Internships"/>
+</p>
+
+<sub>
+<a href="#-about-me">About</a> •
+<a href="#-tech-stack">Tech Stack</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-current-focus">Focus</a> •
+<a href="#-github-streak">Stats</a> •
+<a href="#-2026-goals">Goals</a>
+</sub>
 
 </div>
 
@@ -35,6 +68,9 @@ Outside programming, I enjoy exploring startup ideas, UI/UX, system design, prod
   </a>
   <a href="https://github.com/piyusshhjangid">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/piyusshhjangid/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -79,6 +115,67 @@ Outside programming, I enjoy exploring startup ideas, UI/UX, system design, prod
 
 ---
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:2a2e42&height=3&section=header" width="100%" alt=""/>
+</div>
+
+## 💼 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎤 [InterviewMate](https://github.com/piyusshhjangid/InterviewMate)
+
+AI-powered mock interview platform for practicing technical, behavioral, and mixed interviews — Gemini-generated questions, real-time feedback, streaks, and an achievements system.
+
+`React` `Gemini API` `LocalStorage`
+
+🔗 [Live Demo](https://interview-mate-psi.vercel.app) · [Source](https://github.com/piyusshhjangid/InterviewMate)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧰 [Productivity Hub](https://github.com/piyusshhjangid/Productivity-Hub)
+
+A modular hub built to host a growing suite of productivity and utility tools behind a single, clean interface.
+
+`HTML5` `CSS3` `JavaScript`
+
+🔗 [Live Demo](https://piyush-jangid-01.github.io/Productivity-Hub/) · [Source](https://github.com/piyusshhjangid/Productivity-Hub)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [Developer Portfolio](https://github.com/piyusshhjangid/portfolio)
+
+My personal portfolio site — scroll-based reveal animations, a tilted-card hero, and a working contact form, all wrapped in a Framer Motion-driven UI.
+
+`React` `TypeScript` `Framer Motion`
+
+🔗 [Live Demo](https://portfolio-teal-eight-mbtq40deii.vercel.app/) · [Source](https://github.com/piyusshhjangid/portfolio)
+
+</td>
+<td width="50%" valign="top">
+
+### 👕 [Clothing Brand Landing Page](https://github.com/piyusshhjangid/clothing-brand)
+
+A clothing-brand storefront landing page built as a learning project — focused on layout, styling, and front-end fundamentals.
+
+`HTML` `CSS` `JavaScript`
+
+🔗 [Source](https://github.com/piyusshhjangid/clothing-brand)
+
+</td>
+</tr>
+</table>
+
+<p align="center"><sub><a href="https://github.com/piyusshhjangid?tab=repositories">See all repositories →</a></sub></p>
+
+---
+
 ## 🚀 Current Focus
 
 - 📚 Mastering TypeScript & PostgreSQL
@@ -100,13 +197,9 @@ Outside programming, I enjoy exploring startup ideas, UI/UX, system design, prod
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
-
-![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=piyusshhjangid&theme=tokyo-night)
-
-### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyusshhjangid/piyusshhjangid/output/github-contribution-grid-snake-dark.svg" />
@@ -139,8 +232,8 @@ Outside programming, I enjoy exploring startup ideas, UI/UX, system design, prod
 
 <div align="center">
 
-![](https://visitcount.itsvg.in/api?id=piyusshhjangid&icon=5&color=12)
+<p><code>piyusshhjangid@github ~ $ echo "thanks for stopping by 👋"</code></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b26&height=180&section=footer" width="100%" alt="footer wave"/>
+![](https://visitcount.itsvg.in/api?id=piyusshhjangid&icon=5&color=12)
 
 </div>
