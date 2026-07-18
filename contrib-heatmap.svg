@@ -389,7 +389,7 @@
 <rect x="756" y="76" width="11" height="11" rx="2" fill="#7aa2f7" opacity="0.12"><title>2026-07-15 • 13 contributions</title><animate attributeName="opacity" from="0.12" to="1" begin="2.176s" dur="0.25s" fill="freeze"/></rect>
 <rect x="756" y="90" width="11" height="11" rx="2" fill="#5b85c9" opacity="0.12"><title>2026-07-16 • 4 contributions</title><animate attributeName="opacity" from="0.12" to="1" begin="2.182s" dur="0.25s" fill="freeze"/></rect>
 <rect x="756" y="104" width="11" height="11" rx="2" fill="#1f2335" opacity="0.12"><title>2026-07-17 • 0 contributions</title><animate attributeName="opacity" from="0.12" to="1" begin="2.188s" dur="0.25s" fill="freeze"/></rect>
-<rect x="756" y="118" width="11" height="11" rx="2" fill="#5b85c9" opacity="0.12"><title>2026-07-18 • 4 contributions</title><animate attributeName="opacity" from="0.12" to="1" begin="2.194s" dur="0.25s" fill="freeze"/></rect>
-<text x="28" y="152" fill="#7aa2f7" font-size="10">141 contributions in the last year</text>
+<rect x="756" y="118" width="11" height="11" rx="2" fill="#7aa2f7" opacity="0.12"><title>2026-07-18 • 5 contributions</title><animate attributeName="opacity" from="0.12" to="1" begin="2.194s" dur="0.25s" fill="freeze"/></rect>
+<text x="28" y="152" fill="#7aa2f7" font-size="10">142 contributions in the last year</text>
 <text x="770" y="152" text-anchor="end" fill="#565f89" font-size="9">auto-updated daily</text>
 </svg>
