@@ -114,8 +114,6 @@ Outside programming, I enjoy exploring startup ideas, UI/UX, system design, prod
   <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/piyusshhjangid/piyusshhjangid/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-*Goes live once the workflow in `snake.yml` runs — one-time setup, see notes below.*
-
 </div>
 
 ---
