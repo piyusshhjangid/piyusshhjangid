@@ -90,11 +90,13 @@ Outside programming, I enjoy exploring startup ideas, UI/UX, system design, prod
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=piyusshhjangid&theme=tokyonight)
+![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyusshhjangid&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyusshhjangid&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
