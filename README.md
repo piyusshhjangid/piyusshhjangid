@@ -1,4 +1,4 @@
-# Piyush Jangid — Developer Portfolio
+# My Developer Portfolio
 
 ## Full Stack Developer · SaaS Builder · Computer Engineering Student
 
