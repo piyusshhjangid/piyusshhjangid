@@ -2,8 +2,6 @@
 
 ## Full Stack Developer · SaaS Builder · Computer Engineering Student
 
-### Professional Profile
-
 Hello, I’m **Piyush Jangid**.
 
 I am a Computer Engineering student focused on **Full Stack Web Development, SaaS engineering, and software engineering fundamentals**. I learn primarily through building projects, studying core computer science concepts, and continuously improving my engineering workflow.
