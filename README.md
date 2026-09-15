@@ -1,144 +1,111 @@
-<div align="center">
+# Piyush Jangid — Developer Portfolio
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=260&section=header&text=Piyush%20Jangid&fontSize=46&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20CS%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Piyush Jangid"/>
+## Full Stack Developer · SaaS Builder · Computer Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+SaaS+products+from+scratch;React%2C+Node.js%2C+PostgreSQL%2C+MongoDB;Learning+by+building%2C+not+just+watching" alt="Typing SVG"/>
+### Professional Profile
 
-</div>
+Hello, I’m **Piyush Jangid**.
 
----
+I am a Computer Engineering student focused on **Full Stack Web Development, SaaS engineering, and software engineering fundamentals**. I learn primarily through building projects, studying core computer science concepts, and continuously improving my engineering workflow.
 
-# 💫 About Me
+My current technical focus includes **TypeScript, React, Node.js, Express, PostgreSQL, Prisma, MongoDB, SQL, REST APIs, authentication, and DSA**.
 
-Hi, I'm **Piyush Jangid** 👋
+I am particularly interested in building web products from the ground up — from database design and backend architecture to responsive interfaces, authentication, deployment, and product development.
 
-🎓 Computer Engineering student passionate about **Full Stack Development, SaaS, and Software Engineering**.
-
-I'm currently building a strong foundation in **JavaScript, TypeScript, React, Node.js, Express, MongoDB, PostgreSQL, SQL and DSA** through consistent project-based learning.
-
-I believe in **learning by building**, so instead of only watching tutorials, I create projects, take structured notes, solve DSA problems, and continuously improve my development workflow.
-
-🚀 My long-term goal is to become a top software engineer, contribute to open source, build successful SaaS products, and eventually start my own technology company.
-
-Outside programming, I enjoy exploring startup ideas, UI/UX, system design, productivity, and constantly challenging myself with ambitious projects.
+My long-term objective is to become a highly capable software engineer, contribute meaningfully to open source, build successful SaaS products, and eventually create technology products of my own.
 
 ---
 
-## 🌐 Connect with Me
+## Core Focus
 
-<p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jangidpiyush16011@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/piyusshhjangid/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/piyusshhjangid">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+| Area | Focus |
+|---|---|
+| Full Stack Development | React, TypeScript, Node.js, Express |
+| Backend Engineering | REST APIs, Authentication, Services, Repositories |
+| Databases | PostgreSQL, SQL, Prisma, MongoDB |
+| Frontend Engineering | React, TypeScript, Tailwind CSS |
+| Software Engineering | Architecture, Git/GitHub, Testing, Maintainability |
+| Computer Science | DSA, OOP, Operating Systems, DBMS |
+| Product Development | SaaS, APIs, Developer-focused Products |
 
 ---
 
-## 💻 Tech Stack
+## Featured Project
 
-<p align="center">
+### CollabSpace
 
-**Languages**
+A full-stack SaaS collaboration platform built to develop practical software engineering and product development skills.
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+**Technology:** React · TypeScript · Node.js · Express · PostgreSQL · Prisma · JWT · bcrypt · Tailwind CSS
 
-**Frontend**
+**Engineering focus:**
+- Layered backend architecture
+- REST API design
+- PostgreSQL database modeling
+- Prisma ORM
+- Authentication foundations
+- JWT access and refresh token flows
+- Secure password hashing
+- Git/GitHub development workflow
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-**Backend**
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker)
-
-</p>
+**GitHub:**  
+https://github.com/piyusshhjangid/collabspace
 
 ---
 
-## 🚀 Current Focus
+## Previous Full Stack Work
 
-- 📚 Mastering TypeScript & PostgreSQL
-- ⚡ Building production-grade Full Stack projects
-- 💼 Preparing for Software Engineering internships
-- 🧠 Solving DSA consistently
-- 🌍 Contributing to Open Source
-- 🚀 Working toward launching my first SaaS
+### NestVault
 
----
+A full-stack real estate platform built with the MERN stack, with additional deployment, database, caching, and AI integration work.
 
-## 🔥 GitHub Streak
+**Technology:** MongoDB · Express · React · Node.js · Docker · Redis · Cloudinary · AI APIs
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=piyusshhjangid&theme=tokyonight)
-
-</div>
+**Focus areas:**
+- Full-stack application architecture
+- Property management
+- Authentication
+- AI-assisted property workflows
+- Search and recommendation concepts
+- Cloud deployment
+- Database and caching integration
 
 ---
 
-## 📈 Contribution Graph
+## Open Source
 
-<div align="center">
+I am actively developing toward meaningful open-source participation.
 
-![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=piyusshhjangid&theme=tokyo-night)
+My objective is to contribute to real projects, learn professional collaboration practices, work through issues and code reviews, and gradually take on more complex engineering tasks.
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piyusshhjangid/piyusshhjangid/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piyusshhjangid/piyusshhjangid/output/github-contribution-grid-snake.svg" />
-  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/piyusshhjangid/piyusshhjangid/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-</div>
-
----
-
-## 🎯 2026 Goals
-
-- [ ] Build 5 production-quality projects
-- [ ] Crack a high-quality software internship
-- [ ] Solve 500+ DSA problems
-- [ ] Learn cloud deployment
-- [ ] Contribute to open source
-- [ ] Launch my first SaaS MVP
+**Areas of interest:**
+- TypeScript / JavaScript
+- React
+- Node.js
+- Backend Engineering
+- Developer Tools
+- APIs
+- Databases
+- AI Tooling
 
 ---
 
-### ✍️ Developer Quote
+## Engineering Philosophy
 
-> *"Consistency compounds. Every project, every bug, every commit makes you a better engineer."*
+> **Learn by building, understand what you build, and improve through real problems.**
 
-💬 Always up for a conversation about SaaS, system design, or your next big idea — feel free to reach out.
+I focus on developing practical engineering ability rather than simply completing tutorials. My approach combines:
 
-<div align="center">
+**Learn → Build → Debug → Document → Review → Improve**
 
-![](https://visitcount.itsvg.in/api?id=piyusshhjangid&icon=5&color=12)
+I value clean architecture, secure development practices, strong fundamentals, and the ability to understand systems rather than only knowing how to use frameworks.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b26&height=180&section=footer" width="100%" alt="footer wave"/>
+---
 
-</div>
+## Connect
+
+**GitHub:** https://github.com/piyusshhjangid
+
+**LinkedIn:** https://www.linkedin.com/in/piyusshhjangid/
+
+**Email:** jangidpiyush16011@gmail.com
