@@ -10,8 +10,6 @@ My current technical focus includes **TypeScript, React, Node.js, Express, Postg
 
 I am particularly interested in building web products from the ground up — from database design and backend architecture to responsive interfaces, authentication, deployment, and product development.
 
-My long-term objective is to become a highly capable software engineer, contribute meaningfully to open source, build successful SaaS products, and eventually create technology products of my own.
-
 ---
 
 ## Core Focus
@@ -85,25 +83,3 @@ My objective is to contribute to real projects, learn professional collaboration
 - APIs
 - Databases
 - AI Tooling
-
----
-
-## Engineering Philosophy
-
-> **Learn by building, understand what you build, and improve through real problems.**
-
-I focus on developing practical engineering ability rather than simply completing tutorials. My approach combines:
-
-**Learn → Build → Debug → Document → Review → Improve**
-
-I value clean architecture, secure development practices, strong fundamentals, and the ability to understand systems rather than only knowing how to use frameworks.
-
----
-
-## Connect
-
-**GitHub:** https://github.com/piyusshhjangid
-
-**LinkedIn:** https://www.linkedin.com/in/piyusshhjangid/
-
-**Email:** jangidpiyush16011@gmail.com
