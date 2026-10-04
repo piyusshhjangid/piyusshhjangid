@@ -63,7 +63,6 @@ A full-stack real estate platform built with the MERN stack, with additional dep
 - Authentication
 - AI-assisted property workflows
 - Search and recommendation concepts
-- Cloud deployment
 - Database and caching integration
 
 ---
