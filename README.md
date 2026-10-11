@@ -78,17 +78,6 @@ Most project tools show what was planned. CollabSpace is designed to surface the
 - 🧪 **Security-focused tests** covering tenant isolation and privilege boundaries
 - ⚛️ **Clear frontend state split**: Redux Toolkit for UI state, TanStack Query for server state
 
-```mermaid
-flowchart LR
-    A[HTTP Request] --> B[Routes]
-    B --> C[Validation & Middleware]
-    C --> D[Controllers]
-    D --> E[Services]
-    E --> F[Repositories]
-    F --> G[Prisma]
-    G --> H[(PostgreSQL)]
-```
-
 **Stack:** `React` `TypeScript` `Vite` `Redux Toolkit` `TanStack Query` `Node.js` `Express 5` `PostgreSQL` `Prisma` `Docker` `Vitest`
 
 ---
@@ -149,7 +138,7 @@ Pick a walk based on current weather, then put your phone away.
 
 **Programs:** Social Winter of Code, Season 7 (2026–27) · Hacktoberfest 2026
 
-### 🎯 GSoC 2027 Roadmap
+### 🎯 GSoC Roadmap
 
 | Phase | Goal |
 |---|---|
@@ -158,30 +147,6 @@ Pick a walk based on current weather, then put your phone away.
 | **3. Own it** | Reproduce bugs, write the failing test first, implement the fix, and explain the reasoning in every PR. |
 | **4. Engage** | Join project chats, review other contributors' work, and respond to maintainer feedback quickly. |
 | **5. Propose** | Once organizations are announced, confirm eligibility, draft a scoped proposal with milestones, and get mentor feedback before the deadline. |
-
----
-
-## 🧭 Engineering Principles
-
-- **The server is the source of truth for authorization.** The frontend can display permissions but never grants them.
-- **Roles belong to memberships, not users.** One person can be an Owner in one workspace and a Viewer in another.
-- **Use the right tool for the job.** AI for interpretation, deterministic code for decisions that must be correct.
-- **Verify, don't assume.** Run the tests, check the diff, and inspect the real contract before changing code.
-- **Keep changes focused and explainable.** A small, tested change that I can fully defend beats a large one I can't.
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="190" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyusshhjangid&layout=compact&hide_border=true&theme=tokyonight" />
-
-<img alt="GitHub streak" src="https://streak-stats.demolab.com?user=piyusshhjangid&theme=tokyonight&hide_border=true" />
-
-<img alt="Contribution graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=piyusshhjangid&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
 
 ---
 
