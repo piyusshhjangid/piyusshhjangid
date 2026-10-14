@@ -140,24 +140,6 @@ Pick a walk based on current weather, then put your phone away.
 
 **Programs:** Social Winter of Code (Season 7) · Hacktoberfest 2026 · GSoC 2027 preparation
 
-### 🎯 GSoC Roadmap
-
-- **Explore:** Shortlist projects aligned with TypeScript, React, and Node.js.
-- **Contribute:** Build a track record through focused, reviewable PRs.
-- **Own it:** Reproduce bugs, write regression tests, and explain implementation trade-offs.
-- **Engage:** Participate in project discussions and respond to maintainer feedback.
-- **Propose:** Verify participating organizations, eligibility, and project ideas before drafting a scoped proposal.
-
-### 🎯 GSoC Roadmap
-
-| Phase | Goal |
-|---|---|
-| **1. Explore** | Study past GSoC organizations and shortlist those matching my stack (TypeScript, React, Node.js). Currently exploring Joplin, Zulip, webpack, Rocket.Chat, and Learning Equality. These are candidates, not confirmed 2027 participants. |
-| **2. Contribute** | Make consistent, focused contributions through SWoC and beyond, moving from small fixes to larger multi-file changes in 2–3 target projects. |
-| **3. Own it** | Reproduce bugs, write the failing test first, implement the fix, and explain the reasoning in every PR. |
-| **4. Engage** | Join project chats, review other contributors' work, and respond to maintainer feedback quickly. |
-| **5. Propose** | Once organizations are announced, confirm eligibility, draft a scoped proposal with milestones, and get mentor feedback before the deadline. |
-
 ---
 
 ## 🔭 Currently Focused On
