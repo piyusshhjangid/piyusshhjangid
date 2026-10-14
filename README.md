@@ -15,7 +15,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![Open Source](https://img.shields.io/badge/Open%20Source-2%20Merged%20PRs-success?style=flat-square&logo=github)
+![Open Source](https://img.shields.io/badge/Open%20Source-6%20Merged%20PRs-success?style=flat-square&logo=github)
 ![SWoC](https://img.shields.io/badge/SWoC-Season%207-orange?style=flat-square)
 ![GSoC](https://img.shields.io/badge/GSoC-2027%20Goal-blueviolet?style=flat-square&logo=google)
 ![Profile Views](https://komarev.com/ghpvc/?username=piyusshhjangid&label=Profile%20Views&color=8B5CF6&style=flat-square)
