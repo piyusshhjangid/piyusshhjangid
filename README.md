@@ -131,12 +131,22 @@ Pick a walk based on current weather, then put your phone away.
 
 ## 🤝 Open Source
 
-| Repository | Contribution | Skills Demonstrated | Status |
-|---|---|---|---|
-| [free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | [PR #198](https://github.com/pacocartones/free-llm-api-hub/pull/198): Verified a provider's signup requirements, updated the source-of-truth data file, and regenerated derived artifacts | Data verification, repository workflow, validation, review handling | ✅ Merged |
-| [ChatCops](https://github.com/codercops/chatcops) | [PR #104](https://github.com/codercops/chatcops/pull/104): Enforced server-compatible input length limits in the widget (500-char pre-chat fields, 10,000-char messages) with tests and a patch changeset | TypeScript/DOM, testing, release metadata, code review | ✅ Merged |
+**6 merged PRs in ChatCops** · **1 merged PR in free-llm-api-hub** · Hacktoberfest 2026
 
-**Programs:** Social Winter of Code, Season 7 (2026–27) · Hacktoberfest 2026
+| Project | Contributions | Focus |
+|---|---|---|
+| [ChatCops](https://github.com/codercops/chatcops) | [#104](https://github.com/codercops/chatcops/pull/104), [#120](https://github.com/codercops/chatcops/pull/120), [#127](https://github.com/codercops/chatcops/pull/127), [#131](https://github.com/codercops/chatcops/pull/131), [#132](https://github.com/codercops/chatcops/pull/132)  | Input validation, accessibility, analytics tests, Express adapter coverage |
+| [free-llm-api-hub](https://github.com/pacocartones/free-llm-api-hub) | [#198](https://github.com/pacocartones/free-llm-api-hub/pull/198) | Provider verification and generated-data consistency |
+
+**Programs:** Social Winter of Code (Season 7) · Hacktoberfest 2026 · GSoC 2027 preparation
+
+### 🎯 GSoC Roadmap
+
+- **Explore:** Shortlist projects aligned with TypeScript, React, and Node.js.
+- **Contribute:** Build a track record through focused, reviewable PRs.
+- **Own it:** Reproduce bugs, write regression tests, and explain implementation trade-offs.
+- **Engage:** Participate in project discussions and respond to maintainer feedback.
+- **Propose:** Verify participating organizations, eligibility, and project ideas before drafting a scoped proposal.
 
 ### 🎯 GSoC Roadmap
 
